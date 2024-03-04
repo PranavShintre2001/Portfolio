@@ -1,0 +1,147 @@
+.nav{
+background-color: white; 
+height: 50px;
+width: 100%;
+}
+#logo{
+    color:blueviolet;
+     font-size: xx-large;
+    margin-left: 100px;
+font-family: Allerta Stencil;
+margin-top: 20px;
+padding-top: 20px;
+    text-decoration: none;
+    text-align: left;
+}
+#home{
+    margin-left: 500px;
+    font-size: large;
+}
+a{
+    text-align: center;
+    color:black;
+    padding-left: 70px;
+    }
+    .main{
+       /* opacity: 0.6;*/
+        height: 600px;
+        width: 100%;
+        margin-top: 0%;
+
+        background-color: rgb(219, 175, 226);
+    }
+#photo{
+    position: absolute;
+    top:200px;
+    right: 170px;
+
+    background-color:white;
+    height: 320px;
+    width: 320px;
+   border-radius:50%;
+   
+}
+#image{
+    border-radius:50%;
+    height: 320px;
+    width: 320px;
+}
+#hello{
+    position:absolute;
+    top:200px;
+    left:100px;
+    font-size: xx-large;
+}
+h5{ position:absolute;
+    top:320px;
+    left:100px;
+    font-size: large;
+}
+#buttonone{
+    position:absolute;
+    background-color: blueviolet;
+    color: aliceblue;
+    top:480px;
+    left:100px;
+    padding:10px;
+    border-radius: 10px;
+}
+#buttontwo{
+    position:absolute;
+    color: blueviolet;
+    top:480px;
+    left:200px;
+    padding:10px;
+    border-radius: 10px;
+}
+.btn-download{
+    position:absolute;
+    top:480px;
+    left: 300px;
+    padding:10px;
+    border-radius: 20px;
+    border-color: black;
+    color: white;
+    background-color: cornflowerblue;
+    text-decoration: none;
+}
+header{
+    margin-left:100px ;
+}
+
+#boxone{
+    position: absolute;
+    border:2px thin black;
+    height:150px;
+    width: 200px;
+    padding: 10px;
+    left: 500px;
+    margin: 0%;
+    box-shadow: 5px 10px;
+    background-color: #cadefc;
+
+}
+#boxtwo{
+    position: absolute;
+    border:2px thin black;
+    height:150px;
+    width: 200px;
+    padding: 10px;
+    left: 300px;
+    top:0%;
+    box-shadow: 5px 10px;
+    background-color: #defcf9;
+
+}
+#skill{
+    color: black;
+    margin-top: 270px;
+    margin-left:100px ;
+    margin-bottom: 50px;
+
+
+}
+skills,h2{
+    display: inline;
+    margin-left: 200px;
+}
+.Footer{
+    background-color: grey;
+    margin-top: 30px;
+    height:250px;
+    width: 100%;
+}
+#Certification{
+    margin-left: 100px;
+    margin-top: 30px;
+    padding-top: 30px;
+
+}
+#qq{
+    display: inline-block;
+margin: 2%;
+margin-left: 100px;
+
+}
+
+
